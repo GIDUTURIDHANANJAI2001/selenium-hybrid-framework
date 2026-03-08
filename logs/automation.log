@@ -1,0 +1,712 @@
+2026-03-08 13:22:44 INFO  base.BaseTest - Launching browser
+2026-03-08 13:22:54 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 13:22:54 INFO  pages.LoginPage - Entering username
+2026-03-08 13:22:55 INFO  pages.LoginPage - Entering password
+2026-03-08 13:22:55 INFO  pages.LoginPage - Clicking login button
+2026-03-08 13:22:58 INFO  base.BaseTest - Browser closed
+2026-03-08 13:22:58 INFO  base.BaseTest - Launching browser
+2026-03-08 13:23:07 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 13:23:07 INFO  pages.LoginPage - Entering username
+2026-03-08 13:23:08 INFO  pages.LoginPage - Entering password
+2026-03-08 13:23:09 INFO  pages.LoginPage - Clicking login button
+2026-03-08 13:23:09 INFO  pages.LoginPage - Checking error message
+2026-03-08 13:23:11 INFO  base.BaseTest - Browser closed
+2026-03-08 13:23:11 INFO  base.BaseTest - Launching browser
+2026-03-08 13:23:20 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 13:23:20 INFO  pages.LoginPage - Entering username
+2026-03-08 13:23:22 INFO  pages.LoginPage - Entering password
+2026-03-08 13:23:22 INFO  pages.LoginPage - Clicking login button
+2026-03-08 13:23:23 INFO  pages.LoginPage - Checking error message
+2026-03-08 13:23:25 INFO  base.BaseTest - Browser closed
+2026-03-08 13:23:25 INFO  base.BaseTest - Launching browser
+2026-03-08 13:23:35 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 13:23:35 INFO  pages.LoginPage - Entering username
+2026-03-08 13:23:36 INFO  pages.LoginPage - Entering password
+2026-03-08 13:23:37 INFO  pages.LoginPage - Clicking login button
+2026-03-08 13:23:37 INFO  pages.LoginPage - Checking required validation
+2026-03-08 13:23:38 INFO  base.BaseTest - Browser closed
+2026-03-08 13:23:38 INFO  base.BaseTest - Launching browser
+2026-03-08 13:23:46 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 13:23:46 INFO  pages.LoginPage - Entering username
+2026-03-08 13:23:47 INFO  pages.LoginPage - Entering password
+2026-03-08 13:23:48 INFO  pages.LoginPage - Clicking login button
+2026-03-08 13:23:48 INFO  pages.LoginPage - Checking required validation
+2026-03-08 13:23:48 INFO  base.BaseTest - Browser closed
+2026-03-08 13:24:39 INFO  base.BaseTest - Launching browser
+2026-03-08 13:24:48 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 13:24:48 INFO  pages.LoginPage - Entering username
+2026-03-08 13:24:49 INFO  pages.LoginPage - Entering password
+2026-03-08 13:24:50 INFO  pages.LoginPage - Clicking login button
+2026-03-08 13:24:50 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 13:24:57 INFO  base.BaseTest - Browser closed
+2026-03-08 13:24:57 INFO  base.BaseTest - Launching browser
+2026-03-08 13:25:05 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 13:25:05 INFO  pages.LoginPage - Entering username
+2026-03-08 13:25:06 INFO  pages.LoginPage - Entering password
+2026-03-08 13:25:06 INFO  pages.LoginPage - Clicking login button
+2026-03-08 13:25:06 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 13:25:11 INFO  pages.PIMPage - Clicking Add Employee
+2026-03-08 13:25:13 INFO  base.BaseTest - Browser closed
+2026-03-08 13:25:13 INFO  base.BaseTest - Launching browser
+2026-03-08 13:25:21 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 13:25:21 INFO  pages.LoginPage - Entering username
+2026-03-08 13:25:22 INFO  pages.LoginPage - Entering password
+2026-03-08 13:25:22 INFO  pages.LoginPage - Clicking login button
+2026-03-08 13:25:22 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 13:25:28 INFO  pages.PIMPage - Clicking Add Employee
+2026-03-08 13:25:30 INFO  pages.PIMPage - Entering First Name: Apex
+2026-03-08 13:25:32 INFO  base.BaseTest - Browser closed
+2026-03-08 13:25:32 INFO  base.BaseTest - Launching browser
+2026-03-08 13:25:40 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 13:25:40 INFO  pages.LoginPage - Entering username
+2026-03-08 13:25:41 INFO  pages.LoginPage - Entering password
+2026-03-08 13:25:42 INFO  pages.LoginPage - Clicking login button
+2026-03-08 13:25:45 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 13:25:47 INFO  pages.PIMPage - Clicking Add Employee
+2026-03-08 13:25:51 INFO  pages.PIMPage - Entering First Name: Apex
+2026-03-08 13:25:52 INFO  pages.PIMPage - Entering Last Name: Tester
+2026-03-08 13:25:53 INFO  base.BaseTest - Browser closed
+2026-03-08 13:25:53 INFO  base.BaseTest - Launching browser
+2026-03-08 13:26:01 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 13:26:01 INFO  pages.LoginPage - Entering username
+2026-03-08 13:26:03 INFO  pages.LoginPage - Entering password
+2026-03-08 13:26:03 INFO  pages.LoginPage - Clicking login button
+2026-03-08 13:26:04 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 13:26:08 INFO  pages.PIMPage - Clicking Add Employee
+2026-03-08 13:26:10 INFO  pages.PIMPage - Entering First Name: Apex
+2026-03-08 13:26:11 INFO  pages.PIMPage - Entering Last Name: Tester
+2026-03-08 13:26:11 INFO  pages.PIMPage - Entering Employee ID: 768146
+2026-03-08 13:26:11 INFO  pages.PIMPage - Clicking Save button
+2026-03-08 13:26:12 INFO  pages.PIMPage - Verifying Personal Details page
+2026-03-08 13:26:18 INFO  base.BaseTest - Browser closed
+2026-03-08 13:26:18 INFO  base.BaseTest - Launching browser
+2026-03-08 13:26:27 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 13:26:27 INFO  pages.LoginPage - Entering username
+2026-03-08 13:26:28 INFO  pages.LoginPage - Entering password
+2026-03-08 13:26:28 INFO  pages.LoginPage - Clicking login button
+2026-03-08 13:26:28 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 13:26:32 INFO  pages.PIMPage - Clicking Add Employee
+2026-03-08 13:26:34 INFO  pages.PIMPage - Entering First Name: John
+2026-03-08 13:26:35 INFO  pages.PIMPage - Entering Last Name: Doe
+2026-03-08 13:26:36 INFO  pages.PIMPage - Entering Employee ID: 812146
+2026-03-08 13:26:36 INFO  pages.PIMPage - Clicking Save button
+2026-03-08 13:26:36 INFO  pages.PIMPage - Verifying Personal Details page
+2026-03-08 13:26:45 INFO  base.BaseTest - Browser closed
+2026-03-08 13:26:45 INFO  base.BaseTest - Launching browser
+2026-03-08 13:26:53 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 13:26:53 INFO  pages.LoginPage - Entering username
+2026-03-08 13:26:54 INFO  pages.LoginPage - Entering password
+2026-03-08 13:26:54 INFO  pages.LoginPage - Clicking login button
+2026-03-08 13:26:56 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 13:26:59 INFO  pages.PIMPage - Opening Employee List
+2026-03-08 13:27:01 INFO  base.BaseTest - Browser closed
+2026-03-08 13:27:01 INFO  base.BaseTest - Launching browser
+2026-03-08 13:27:09 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 13:27:09 INFO  pages.LoginPage - Entering username
+2026-03-08 13:27:10 INFO  pages.LoginPage - Entering password
+2026-03-08 13:27:11 INFO  pages.LoginPage - Clicking login button
+2026-03-08 13:27:12 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 13:27:15 INFO  pages.PIMPage - Opening Employee List
+2026-03-08 13:27:17 INFO  pages.PIMPage - Searching Employee: Apex
+2026-03-08 13:27:18 INFO  pages.PIMPage - Clicking Search button
+2026-03-08 13:27:19 INFO  base.BaseTest - Browser closed
+2026-03-08 13:27:19 INFO  base.BaseTest - Launching browser
+2026-03-08 13:27:27 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 13:27:27 INFO  pages.LoginPage - Entering username
+2026-03-08 13:27:28 INFO  pages.LoginPage - Entering password
+2026-03-08 13:27:28 INFO  pages.LoginPage - Clicking login button
+2026-03-08 13:27:29 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 13:27:33 INFO  pages.PIMPage - Opening Employee List
+2026-03-08 13:27:35 INFO  pages.PIMPage - Searching Employee: Apex
+2026-03-08 13:27:37 INFO  pages.PIMPage - Clicking Search button
+2026-03-08 13:27:40 INFO  base.BaseTest - Browser closed
+2026-03-08 13:27:40 INFO  base.BaseTest - Launching browser
+2026-03-08 13:27:53 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 13:27:53 INFO  pages.LoginPage - Entering username
+2026-03-08 13:27:55 INFO  pages.LoginPage - Entering password
+2026-03-08 13:27:57 INFO  pages.LoginPage - Clicking login button
+2026-03-08 13:28:00 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 13:28:05 INFO  pages.PIMPage - Opening Employee List
+2026-03-08 13:28:09 INFO  pages.PIMPage - Searching Employee: Dhanu Apex
+2026-03-08 13:28:13 INFO  pages.PIMPage - Clicking Search button
+2026-03-08 13:28:14 INFO  pages.PIMPage - Deleting employee
+2026-03-08 13:28:24 ERROR base.BaseTest - Test Failed: TC20_deleteEmployee
+2026-03-08 13:28:28 INFO  base.BaseTest - Browser closed
+2026-03-08 13:35:36 INFO  base.BaseTest - Launching browser
+2026-03-08 13:35:46 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 13:35:46 INFO  listeners.TestListener - STARTING TEST: TC_01_validLoginTest
+2026-03-08 13:35:46 INFO  pages.LoginPage - Entering username
+2026-03-08 13:35:47 INFO  pages.LoginPage - Entering password
+2026-03-08 13:35:47 INFO  pages.LoginPage - Clicking login button
+2026-03-08 13:35:49 INFO  listeners.TestListener - TEST PASSED: TC_01_validLoginTest
+2026-03-08 13:35:49 INFO  base.BaseTest - Browser closed
+2026-03-08 13:35:49 INFO  base.BaseTest - Launching browser
+2026-03-08 13:35:58 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 13:35:58 INFO  listeners.TestListener - STARTING TEST: TC_02_invalidUsernameTest
+2026-03-08 13:35:58 INFO  pages.LoginPage - Entering username
+2026-03-08 13:35:58 INFO  pages.LoginPage - Entering password
+2026-03-08 13:35:59 INFO  pages.LoginPage - Clicking login button
+2026-03-08 13:36:01 INFO  pages.LoginPage - Checking error message
+2026-03-08 13:36:02 INFO  listeners.TestListener - TEST PASSED: TC_02_invalidUsernameTest
+2026-03-08 13:36:02 INFO  base.BaseTest - Browser closed
+2026-03-08 13:36:02 INFO  base.BaseTest - Launching browser
+2026-03-08 13:36:10 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 13:36:10 INFO  listeners.TestListener - STARTING TEST: TC_03_invalidPasswordTest
+2026-03-08 13:36:10 INFO  pages.LoginPage - Entering username
+2026-03-08 13:36:11 INFO  pages.LoginPage - Entering password
+2026-03-08 13:36:12 INFO  pages.LoginPage - Clicking login button
+2026-03-08 13:36:12 INFO  pages.LoginPage - Checking error message
+2026-03-08 13:36:15 INFO  listeners.TestListener - TEST PASSED: TC_03_invalidPasswordTest
+2026-03-08 13:36:15 INFO  base.BaseTest - Browser closed
+2026-03-08 13:36:15 INFO  base.BaseTest - Launching browser
+2026-03-08 13:36:23 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 13:36:23 INFO  listeners.TestListener - STARTING TEST: TC_04_emptyUsernameTest
+2026-03-08 13:36:23 INFO  pages.LoginPage - Entering username
+2026-03-08 13:36:24 INFO  pages.LoginPage - Entering password
+2026-03-08 13:36:24 INFO  pages.LoginPage - Clicking login button
+2026-03-08 13:36:24 INFO  pages.LoginPage - Checking required validation
+2026-03-08 13:36:24 INFO  listeners.TestListener - TEST PASSED: TC_04_emptyUsernameTest
+2026-03-08 13:36:25 INFO  base.BaseTest - Browser closed
+2026-03-08 13:36:25 INFO  base.BaseTest - Launching browser
+2026-03-08 13:36:33 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 13:36:33 INFO  listeners.TestListener - STARTING TEST: TC_05_emptyPasswordTest
+2026-03-08 13:36:33 INFO  pages.LoginPage - Entering username
+2026-03-08 13:36:34 INFO  pages.LoginPage - Entering password
+2026-03-08 13:36:34 INFO  pages.LoginPage - Clicking login button
+2026-03-08 13:36:35 INFO  pages.LoginPage - Checking required validation
+2026-03-08 13:36:35 INFO  listeners.TestListener - TEST PASSED: TC_05_emptyPasswordTest
+2026-03-08 13:36:35 INFO  base.BaseTest - Browser closed
+2026-03-08 13:36:35 INFO  base.BaseTest - Launching browser
+2026-03-08 13:36:43 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 13:36:43 INFO  listeners.TestListener - STARTING TEST: TC_06_verifyDashboardLoaded
+2026-03-08 13:36:43 INFO  pages.LoginPage - Entering username
+2026-03-08 13:36:44 INFO  pages.LoginPage - Entering password
+2026-03-08 13:36:45 INFO  pages.LoginPage - Clicking login button
+2026-03-08 13:36:45 INFO  pages.DashboardPage - Verifying Dashboard menu
+2026-03-08 13:36:48 INFO  listeners.TestListener - TEST PASSED: TC_06_verifyDashboardLoaded
+2026-03-08 13:36:48 INFO  base.BaseTest - Browser closed
+2026-03-08 13:36:48 INFO  base.BaseTest - Launching browser
+2026-03-08 13:36:56 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 13:36:56 INFO  listeners.TestListener - STARTING TEST: TC_07_verifyDashboardWidget
+2026-03-08 13:36:56 INFO  pages.LoginPage - Entering username
+2026-03-08 13:36:57 INFO  pages.LoginPage - Entering password
+2026-03-08 13:36:57 INFO  pages.LoginPage - Clicking login button
+2026-03-08 13:36:59 INFO  pages.DashboardPage - Verifying Time at Work widget
+2026-03-08 13:37:00 INFO  listeners.TestListener - TEST PASSED: TC_07_verifyDashboardWidget
+2026-03-08 13:37:00 INFO  base.BaseTest - Browser closed
+2026-03-08 13:37:00 INFO  base.BaseTest - Launching browser
+2026-03-08 13:37:08 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 13:37:08 INFO  listeners.TestListener - STARTING TEST: TC_08_verifySideNavigationMenu
+2026-03-08 13:37:08 INFO  pages.LoginPage - Entering username
+2026-03-08 13:37:09 INFO  pages.LoginPage - Entering password
+2026-03-08 13:37:09 INFO  pages.LoginPage - Clicking login button
+2026-03-08 13:37:11 INFO  pages.DashboardPage - Verifying side navigation menu
+2026-03-08 13:37:12 INFO  listeners.TestListener - TEST PASSED: TC_08_verifySideNavigationMenu
+2026-03-08 13:37:12 INFO  base.BaseTest - Browser closed
+2026-03-08 13:37:12 INFO  base.BaseTest - Launching browser
+2026-03-08 13:37:20 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 13:37:20 INFO  listeners.TestListener - STARTING TEST: TC_09_navigateToPIMPage
+2026-03-08 13:37:20 INFO  pages.LoginPage - Entering username
+2026-03-08 13:37:21 INFO  pages.LoginPage - Entering password
+2026-03-08 13:37:22 INFO  pages.LoginPage - Clicking login button
+2026-03-08 13:37:22 INFO  pages.DashboardPage - Clicking PIM menu
+2026-03-08 13:37:26 INFO  listeners.TestListener - TEST PASSED: TC_09_navigateToPIMPage
+2026-03-08 13:37:26 INFO  base.BaseTest - Browser closed
+2026-03-08 13:37:26 INFO  base.BaseTest - Launching browser
+2026-03-08 13:37:35 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 13:37:35 INFO  listeners.TestListener - STARTING TEST: TC_10_verifyLogoutFunctionality
+2026-03-08 13:37:35 INFO  pages.LoginPage - Entering username
+2026-03-08 13:37:36 INFO  pages.LoginPage - Entering password
+2026-03-08 13:37:36 INFO  pages.LoginPage - Clicking login button
+2026-03-08 13:37:36 INFO  pages.DashboardPage - Logging out user
+2026-03-08 13:37:36 INFO  pages.DashboardPage - Opening user dropdown
+2026-03-08 13:37:44 INFO  listeners.TestListener - TEST PASSED: TC_10_verifyLogoutFunctionality
+2026-03-08 13:37:44 INFO  base.BaseTest - Browser closed
+2026-03-08 13:37:44 INFO  base.BaseTest - Launching browser
+2026-03-08 13:37:52 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 13:37:52 INFO  pages.LoginPage - Entering username
+2026-03-08 13:37:53 INFO  pages.LoginPage - Entering password
+2026-03-08 13:37:54 INFO  pages.LoginPage - Clicking login button
+2026-03-08 13:37:55 INFO  listeners.TestListener - STARTING TEST: TC11_navigateToPIM
+2026-03-08 13:37:55 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 13:37:58 INFO  listeners.TestListener - TEST PASSED: TC11_navigateToPIM
+2026-03-08 13:37:59 INFO  base.BaseTest - Browser closed
+2026-03-08 13:37:59 INFO  base.BaseTest - Launching browser
+2026-03-08 13:38:06 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 13:38:06 INFO  pages.LoginPage - Entering username
+2026-03-08 13:38:07 INFO  pages.LoginPage - Entering password
+2026-03-08 13:38:08 INFO  pages.LoginPage - Clicking login button
+2026-03-08 13:38:08 INFO  listeners.TestListener - STARTING TEST: TC12_openAddEmployeePage
+2026-03-08 13:38:08 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 13:38:14 INFO  pages.PIMPage - Clicking Add Employee
+2026-03-08 13:38:16 INFO  listeners.TestListener - TEST PASSED: TC12_openAddEmployeePage
+2026-03-08 13:38:16 INFO  base.BaseTest - Browser closed
+2026-03-08 13:38:16 INFO  base.BaseTest - Launching browser
+2026-03-08 13:38:24 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 13:38:24 INFO  pages.LoginPage - Entering username
+2026-03-08 13:38:25 INFO  pages.LoginPage - Entering password
+2026-03-08 13:38:26 INFO  pages.LoginPage - Clicking login button
+2026-03-08 13:38:26 INFO  listeners.TestListener - STARTING TEST: TC13_enterFirstName
+2026-03-08 13:38:26 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 13:38:30 INFO  pages.PIMPage - Clicking Add Employee
+2026-03-08 13:38:32 INFO  pages.PIMPage - Entering First Name: Apex
+2026-03-08 13:38:33 INFO  listeners.TestListener - TEST PASSED: TC13_enterFirstName
+2026-03-08 13:38:33 INFO  base.BaseTest - Browser closed
+2026-03-08 13:38:33 INFO  base.BaseTest - Launching browser
+2026-03-08 13:38:42 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 13:38:42 INFO  pages.LoginPage - Entering username
+2026-03-08 13:38:44 INFO  pages.LoginPage - Entering password
+2026-03-08 13:38:44 INFO  pages.LoginPage - Clicking login button
+2026-03-08 13:38:44 INFO  listeners.TestListener - STARTING TEST: TC14_enterLastName
+2026-03-08 13:38:44 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 13:38:54 INFO  pages.PIMPage - Clicking Add Employee
+2026-03-08 13:38:57 INFO  pages.PIMPage - Entering First Name: Apex
+2026-03-08 13:38:59 INFO  pages.PIMPage - Entering Last Name: Tester
+2026-03-08 13:38:59 INFO  listeners.TestListener - TEST PASSED: TC14_enterLastName
+2026-03-08 13:39:00 INFO  base.BaseTest - Browser closed
+2026-03-08 13:39:00 INFO  base.BaseTest - Launching browser
+2026-03-08 13:39:08 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 13:39:08 INFO  pages.LoginPage - Entering username
+2026-03-08 13:39:10 INFO  pages.LoginPage - Entering password
+2026-03-08 13:39:10 INFO  pages.LoginPage - Clicking login button
+2026-03-08 13:39:10 INFO  listeners.TestListener - STARTING TEST: TC15_saveEmployee
+2026-03-08 13:39:10 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 13:39:22 INFO  pages.PIMPage - Clicking Add Employee
+2026-03-08 13:39:29 INFO  pages.PIMPage - Entering First Name: Apex
+2026-03-08 13:39:32 INFO  pages.PIMPage - Entering Last Name: Tester
+2026-03-08 13:39:32 INFO  pages.PIMPage - Entering Employee ID: 844199
+2026-03-08 13:39:32 INFO  pages.PIMPage - Clicking Save button
+2026-03-08 13:39:33 ERROR listeners.TestListener - TEST FAILED: TC15_saveEmployee
+2026-03-08 13:39:33 ERROR base.BaseTest - Test Failed: TC15_saveEmployee
+2026-03-08 13:39:34 INFO  base.BaseTest - Browser closed
+2026-03-08 13:39:34 INFO  base.BaseTest - Launching browser
+2026-03-08 13:39:42 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 13:39:42 INFO  pages.LoginPage - Entering username
+2026-03-08 13:39:45 INFO  pages.LoginPage - Entering password
+2026-03-08 13:39:46 INFO  pages.LoginPage - Clicking login button
+2026-03-08 13:39:46 INFO  listeners.TestListener - STARTING TEST: TC16_verifyPersonalDetailsPage
+2026-03-08 13:39:46 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 13:39:56 INFO  pages.PIMPage - Clicking Add Employee
+2026-03-08 13:39:57 INFO  pages.PIMPage - Entering First Name: John
+2026-03-08 13:39:58 INFO  pages.PIMPage - Entering Last Name: Doe
+2026-03-08 13:39:58 INFO  pages.PIMPage - Entering Employee ID: 879914
+2026-03-08 13:39:59 INFO  pages.PIMPage - Clicking Save button
+2026-03-08 13:39:59 INFO  pages.PIMPage - Verifying Personal Details page
+2026-03-08 13:40:05 INFO  listeners.TestListener - TEST PASSED: TC16_verifyPersonalDetailsPage
+2026-03-08 13:40:05 INFO  base.BaseTest - Browser closed
+2026-03-08 13:40:05 INFO  base.BaseTest - Launching browser
+2026-03-08 13:40:13 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 13:40:13 INFO  pages.LoginPage - Entering username
+2026-03-08 13:40:14 INFO  pages.LoginPage - Entering password
+2026-03-08 13:40:14 INFO  pages.LoginPage - Clicking login button
+2026-03-08 13:40:14 INFO  listeners.TestListener - STARTING TEST: TC17_navigateToEmployeeList
+2026-03-08 13:40:15 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 13:40:19 INFO  pages.PIMPage - Opening Employee List
+2026-03-08 13:40:21 INFO  listeners.TestListener - TEST PASSED: TC17_navigateToEmployeeList
+2026-03-08 13:40:21 INFO  base.BaseTest - Browser closed
+2026-03-08 13:40:21 INFO  base.BaseTest - Launching browser
+2026-03-08 13:40:28 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 13:40:28 INFO  pages.LoginPage - Entering username
+2026-03-08 13:40:29 INFO  pages.LoginPage - Entering password
+2026-03-08 13:40:29 INFO  pages.LoginPage - Clicking login button
+2026-03-08 13:40:32 INFO  listeners.TestListener - STARTING TEST: TC18_searchEmployee
+2026-03-08 13:40:32 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 13:40:34 INFO  pages.PIMPage - Opening Employee List
+2026-03-08 13:40:36 INFO  pages.PIMPage - Searching Employee: Apex
+2026-03-08 13:40:37 INFO  pages.PIMPage - Clicking Search button
+2026-03-08 13:40:37 INFO  listeners.TestListener - TEST PASSED: TC18_searchEmployee
+2026-03-08 13:40:37 INFO  base.BaseTest - Browser closed
+2026-03-08 13:40:37 INFO  base.BaseTest - Launching browser
+2026-03-08 13:40:44 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 13:40:44 INFO  pages.LoginPage - Entering username
+2026-03-08 13:40:45 INFO  pages.LoginPage - Entering password
+2026-03-08 13:40:46 INFO  pages.LoginPage - Clicking login button
+2026-03-08 13:40:48 INFO  listeners.TestListener - STARTING TEST: TC19_verifyEmployeeSearch
+2026-03-08 13:40:48 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 13:40:51 INFO  pages.PIMPage - Opening Employee List
+2026-03-08 13:40:53 INFO  pages.PIMPage - Searching Employee: Apex
+2026-03-08 13:40:54 INFO  pages.PIMPage - Clicking Search button
+2026-03-08 13:40:54 INFO  listeners.TestListener - TEST PASSED: TC19_verifyEmployeeSearch
+2026-03-08 13:40:54 INFO  base.BaseTest - Browser closed
+2026-03-08 13:40:54 INFO  base.BaseTest - Launching browser
+2026-03-08 13:41:02 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 13:41:02 INFO  pages.LoginPage - Entering username
+2026-03-08 13:41:03 INFO  pages.LoginPage - Entering password
+2026-03-08 13:41:04 INFO  pages.LoginPage - Clicking login button
+2026-03-08 13:41:06 INFO  listeners.TestListener - STARTING TEST: TC20_deleteEmployee
+2026-03-08 13:41:06 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 13:41:10 INFO  pages.PIMPage - Opening Employee List
+2026-03-08 13:41:12 INFO  pages.PIMPage - Searching Employee: Dhanu Apex
+2026-03-08 13:41:13 INFO  pages.PIMPage - Clicking Search button
+2026-03-08 13:41:13 INFO  pages.PIMPage - Deleting employee
+2026-03-08 13:41:25 ERROR listeners.TestListener - TEST FAILED: TC20_deleteEmployee
+2026-03-08 13:41:25 ERROR base.BaseTest - Test Failed: TC20_deleteEmployee
+2026-03-08 13:41:26 INFO  base.BaseTest - Browser closed
+2026-03-08 14:30:09 INFO  base.BaseTest - Launching browser
+2026-03-08 14:30:36 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 14:30:36 INFO  pages.LoginPage - Entering username
+2026-03-08 14:30:37 INFO  pages.LoginPage - Entering password
+2026-03-08 14:30:38 INFO  pages.LoginPage - Clicking login button
+2026-03-08 14:30:40 ERROR base.BaseTest - Test Failed: TC_01_validLoginTest
+2026-03-08 14:30:40 INFO  base.BaseTest - Browser closed
+2026-03-08 14:30:40 INFO  base.BaseTest - Launching browser
+2026-03-08 14:30:49 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 14:30:49 INFO  pages.LoginPage - Entering username
+2026-03-08 14:30:50 INFO  pages.LoginPage - Entering password
+2026-03-08 14:30:50 INFO  pages.LoginPage - Clicking login button
+2026-03-08 14:30:52 INFO  pages.LoginPage - Checking error message
+2026-03-08 14:30:53 INFO  base.BaseTest - Browser closed
+2026-03-08 14:30:53 INFO  base.BaseTest - Launching browser
+2026-03-08 14:30:58 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 14:30:58 INFO  pages.LoginPage - Entering username
+2026-03-08 14:31:41 INFO  base.BaseTest - Launching browser
+2026-03-08 14:32:08 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 14:32:08 INFO  pages.LoginPage - Entering username
+2026-03-08 14:32:10 INFO  pages.LoginPage - Entering password
+2026-03-08 14:32:10 INFO  pages.LoginPage - Clicking login button
+2026-03-08 14:32:12 INFO  base.BaseTest - Browser closed
+2026-03-08 14:32:12 INFO  base.BaseTest - Launching browser
+2026-03-08 14:32:32 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 14:32:32 INFO  pages.LoginPage - Entering username
+2026-03-08 14:32:34 INFO  pages.LoginPage - Entering password
+2026-03-08 14:32:34 INFO  pages.LoginPage - Clicking login button
+2026-03-08 14:32:36 INFO  pages.LoginPage - Checking error message
+2026-03-08 14:32:37 INFO  base.BaseTest - Browser closed
+2026-03-08 14:32:37 INFO  base.BaseTest - Launching browser
+2026-03-08 14:32:50 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 14:32:50 INFO  pages.LoginPage - Entering username
+2026-03-08 14:32:52 INFO  pages.LoginPage - Entering password
+2026-03-08 14:32:52 INFO  pages.LoginPage - Clicking login button
+2026-03-08 14:32:52 INFO  pages.LoginPage - Checking error message
+2026-03-08 14:32:55 INFO  base.BaseTest - Browser closed
+2026-03-08 14:32:55 INFO  base.BaseTest - Launching browser
+2026-03-08 14:33:15 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 14:33:15 INFO  pages.LoginPage - Entering username
+2026-03-08 14:33:16 INFO  pages.LoginPage - Entering password
+2026-03-08 14:33:17 INFO  pages.LoginPage - Clicking login button
+2026-03-08 14:33:17 INFO  pages.LoginPage - Checking required validation
+2026-03-08 14:33:18 INFO  base.BaseTest - Browser closed
+2026-03-08 14:33:18 INFO  base.BaseTest - Launching browser
+2026-03-08 14:33:38 INFO  base.BaseTest - Navigated to URL: https://opensource-demo.orangehrmlive.com
+2026-03-08 14:33:38 INFO  pages.LoginPage - Entering username
+2026-03-08 14:33:39 INFO  pages.LoginPage - Entering password
+2026-03-08 14:33:39 INFO  pages.LoginPage - Clicking login button
+2026-03-08 14:33:40 INFO  pages.LoginPage - Checking required validation
+2026-03-08 14:33:40 INFO  base.BaseTest - Browser closed
+2026-03-08 14:48:06 INFO  pages.LoginPage - Entering username
+2026-03-08 14:48:07 INFO  pages.LoginPage - Entering password
+2026-03-08 14:48:07 INFO  pages.LoginPage - Clicking login button
+2026-03-08 14:48:35 INFO  pages.LoginPage - Entering username
+2026-03-08 14:48:37 INFO  pages.LoginPage - Entering password
+2026-03-08 14:48:37 INFO  pages.LoginPage - Clicking login button
+2026-03-08 14:48:38 INFO  pages.LoginPage - Checking error message
+2026-03-08 14:49:03 INFO  pages.LoginPage - Entering username
+2026-03-08 14:49:06 INFO  pages.LoginPage - Entering password
+2026-03-08 14:49:07 INFO  pages.LoginPage - Clicking login button
+2026-03-08 14:49:12 INFO  pages.LoginPage - Checking error message
+2026-03-08 14:49:33 INFO  pages.LoginPage - Entering username
+2026-03-08 14:49:35 INFO  pages.LoginPage - Entering password
+2026-03-08 14:49:35 INFO  pages.LoginPage - Clicking login button
+2026-03-08 14:49:36 INFO  pages.LoginPage - Checking required validation
+2026-03-08 14:49:52 INFO  pages.LoginPage - Entering username
+2026-03-08 14:49:53 INFO  pages.LoginPage - Entering password
+2026-03-08 14:49:54 INFO  pages.LoginPage - Clicking login button
+2026-03-08 14:49:54 INFO  pages.LoginPage - Checking required validation
+2026-03-08 14:53:46 INFO  pages.LoginPage - Entering username
+2026-03-08 14:53:47 INFO  pages.LoginPage - Entering username
+2026-03-08 14:53:51 INFO  pages.LoginPage - Entering password
+2026-03-08 14:53:51 INFO  pages.LoginPage - Entering password
+2026-03-08 14:53:51 INFO  pages.LoginPage - Entering username
+2026-03-08 14:53:52 INFO  pages.LoginPage - Clicking login button
+2026-03-08 14:53:52 INFO  pages.LoginPage - Clicking login button
+2026-03-08 14:53:54 INFO  pages.DashboardPage - Verifying Dashboard menu
+2026-03-08 14:53:55 INFO  pages.LoginPage - Entering password
+2026-03-08 14:53:56 INFO  pages.LoginPage - Clicking login button
+2026-03-08 14:53:59 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 14:54:11 INFO  pages.LoginPage - Entering username
+2026-03-08 14:54:18 INFO  pages.LoginPage - Entering username
+2026-03-08 14:54:20 INFO  pages.LoginPage - Entering password
+2026-03-08 14:54:21 INFO  pages.LoginPage - Clicking login button
+2026-03-08 14:54:22 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 14:54:25 INFO  pages.PIMPage - Clicking Add Employee
+2026-03-08 14:54:29 INFO  pages.LoginPage - Entering username
+2026-03-08 14:54:32 INFO  pages.LoginPage - Entering password
+2026-03-08 14:54:32 INFO  pages.LoginPage - Entering password
+2026-03-08 14:54:33 INFO  pages.LoginPage - Clicking login button
+2026-03-08 14:54:33 INFO  pages.LoginPage - Clicking login button
+2026-03-08 14:54:36 INFO  pages.DashboardPage - Verifying Time at Work widget
+2026-03-08 14:54:36 INFO  pages.LoginPage - Checking error message
+2026-03-08 14:54:51 INFO  pages.LoginPage - Entering username
+2026-03-08 14:54:57 INFO  pages.LoginPage - Entering password
+2026-03-08 14:54:58 INFO  pages.LoginPage - Clicking login button
+2026-03-08 14:55:00 INFO  pages.DashboardPage - Verifying side navigation menu
+2026-03-08 14:55:01 INFO  pages.LoginPage - Entering username
+2026-03-08 14:55:01 INFO  pages.LoginPage - Entering username
+2026-03-08 14:55:04 INFO  pages.LoginPage - Entering password
+2026-03-08 14:55:05 INFO  pages.LoginPage - Entering password
+2026-03-08 14:55:05 INFO  pages.LoginPage - Clicking login button
+2026-03-08 14:55:05 INFO  pages.LoginPage - Clicking login button
+2026-03-08 14:55:06 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 14:55:08 INFO  pages.LoginPage - Checking error message
+2026-03-08 14:55:12 INFO  pages.PIMPage - Clicking Add Employee
+2026-03-08 14:55:14 INFO  pages.PIMPage - Entering First Name: Apex
+2026-03-08 14:55:14 INFO  pages.LoginPage - Entering username
+2026-03-08 14:55:24 INFO  pages.LoginPage - Entering username
+2026-03-08 14:55:33 INFO  pages.LoginPage - Entering username
+2026-03-08 14:55:35 INFO  pages.LoginPage - Entering password
+2026-03-08 14:55:37 INFO  pages.LoginPage - Entering password
+2026-03-08 14:55:37 INFO  pages.LoginPage - Clicking login button
+2026-03-08 14:55:38 INFO  pages.LoginPage - Checking required validation
+2026-03-08 14:55:38 INFO  pages.LoginPage - Clicking login button
+2026-03-08 14:55:41 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 14:55:44 INFO  pages.PIMPage - Clicking Add Employee
+2026-03-08 14:55:47 INFO  pages.PIMPage - Entering First Name: Apex
+2026-03-08 14:55:49 INFO  pages.LoginPage - Entering username
+2026-03-08 14:55:49 INFO  pages.PIMPage - Entering Last Name: Tester
+2026-03-08 14:55:51 INFO  pages.LoginPage - Entering password
+2026-03-08 14:55:52 INFO  pages.LoginPage - Clicking login button
+2026-03-08 14:55:54 INFO  pages.LoginPage - Entering username
+2026-03-08 14:55:54 INFO  pages.DashboardPage - Logging out user
+2026-03-08 14:55:54 INFO  pages.DashboardPage - Opening user dropdown
+2026-03-08 14:55:59 INFO  pages.LoginPage - Entering password
+2026-03-08 14:56:00 INFO  pages.LoginPage - Clicking login button
+2026-03-08 14:56:01 INFO  pages.LoginPage - Checking required validation
+2026-03-08 14:56:02 INFO  pages.LoginPage - Entering username
+2026-03-08 14:56:24 INFO  pages.LoginPage - Entering password
+2026-03-08 14:56:25 INFO  pages.LoginPage - Clicking login button
+2026-03-08 14:56:26 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 14:56:31 INFO  pages.PIMPage - Clicking Add Employee
+2026-03-08 14:56:34 INFO  pages.PIMPage - Entering First Name: Apex
+2026-03-08 14:56:35 INFO  pages.PIMPage - Entering Last Name: Tester
+2026-03-08 14:56:35 INFO  pages.PIMPage - Entering Employee ID: 668653
+2026-03-08 14:56:35 INFO  pages.PIMPage - Clicking Save button
+2026-03-08 14:56:36 INFO  pages.PIMPage - Verifying Personal Details page
+2026-03-08 14:57:00 INFO  pages.LoginPage - Entering username
+2026-03-08 14:57:02 INFO  pages.LoginPage - Entering password
+2026-03-08 14:57:02 INFO  pages.LoginPage - Clicking login button
+2026-03-08 14:57:04 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 14:57:06 INFO  pages.PIMPage - Clicking Add Employee
+2026-03-08 14:57:08 INFO  pages.PIMPage - Entering First Name: John
+2026-03-08 14:57:09 INFO  pages.PIMPage - Entering Last Name: Doe
+2026-03-08 14:57:09 INFO  pages.PIMPage - Entering Employee ID: 467405
+2026-03-08 14:57:10 INFO  pages.PIMPage - Clicking Save button
+2026-03-08 14:57:10 INFO  pages.PIMPage - Verifying Personal Details page
+2026-03-08 14:57:28 INFO  pages.LoginPage - Entering username
+2026-03-08 14:57:30 INFO  pages.LoginPage - Entering password
+2026-03-08 14:57:30 INFO  pages.LoginPage - Clicking login button
+2026-03-08 14:57:30 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 14:57:34 INFO  pages.PIMPage - Opening Employee List
+2026-03-08 14:58:00 INFO  pages.LoginPage - Entering username
+2026-03-08 14:58:02 INFO  pages.LoginPage - Entering password
+2026-03-08 14:58:02 INFO  pages.LoginPage - Clicking login button
+2026-03-08 14:58:04 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 14:58:06 INFO  pages.PIMPage - Opening Employee List
+2026-03-08 14:58:08 INFO  pages.PIMPage - Searching Employee: Apex
+2026-03-08 14:58:09 INFO  pages.PIMPage - Clicking Search button
+2026-03-08 14:58:34 INFO  pages.LoginPage - Entering username
+2026-03-08 14:58:36 INFO  pages.LoginPage - Entering password
+2026-03-08 14:58:37 INFO  pages.LoginPage - Clicking login button
+2026-03-08 14:58:39 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 14:58:46 INFO  pages.PIMPage - Opening Employee List
+2026-03-08 14:58:50 INFO  pages.PIMPage - Searching Employee: Apex
+2026-03-08 14:58:51 INFO  pages.PIMPage - Clicking Search button
+2026-03-08 14:59:17 INFO  pages.LoginPage - Entering username
+2026-03-08 14:59:20 INFO  pages.LoginPage - Entering password
+2026-03-08 14:59:20 INFO  pages.LoginPage - Clicking login button
+2026-03-08 14:59:24 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 14:59:31 INFO  pages.PIMPage - Opening Employee List
+2026-03-08 14:59:38 INFO  pages.PIMPage - Searching Employee: Dhanu Apex
+2026-03-08 14:59:41 INFO  pages.PIMPage - Clicking Search button
+2026-03-08 14:59:41 INFO  pages.PIMPage - Deleting employee
+2026-03-08 15:20:33 INFO  pages.LoginPage - Entering username
+2026-03-08 15:20:36 INFO  pages.LoginPage - Entering password
+2026-03-08 15:20:36 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:21:07 INFO  pages.LoginPage - Entering username
+2026-03-08 15:21:09 INFO  pages.LoginPage - Entering password
+2026-03-08 15:21:10 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:21:11 INFO  pages.LoginPage - Checking error message
+2026-03-08 15:21:55 INFO  pages.LoginPage - Entering username
+2026-03-08 15:22:00 INFO  pages.LoginPage - Entering password
+2026-03-08 15:22:01 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:22:01 INFO  pages.LoginPage - Checking error message
+2026-03-08 15:22:38 INFO  pages.LoginPage - Entering username
+2026-03-08 15:22:41 INFO  pages.LoginPage - Entering password
+2026-03-08 15:36:06 INFO  pages.LoginPage - Entering username
+2026-03-08 15:36:27 INFO  pages.LoginPage - Entering password
+2026-03-08 15:36:27 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:36:50 INFO  pages.LoginPage - Entering username
+2026-03-08 15:36:54 INFO  pages.LoginPage - Entering password
+2026-03-08 15:36:55 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:36:57 INFO  pages.LoginPage - Checking error message
+2026-03-08 15:37:18 INFO  pages.LoginPage - Entering username
+2026-03-08 15:37:21 INFO  pages.LoginPage - Entering password
+2026-03-08 15:37:22 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:37:24 INFO  pages.LoginPage - Checking error message
+2026-03-08 15:37:57 INFO  pages.LoginPage - Entering username
+2026-03-08 15:37:59 INFO  pages.LoginPage - Entering password
+2026-03-08 15:38:29 INFO  pages.LoginPage - Entering username
+2026-03-08 15:40:50 INFO  pages.LoginPage - Entering username
+2026-03-08 15:40:52 INFO  pages.LoginPage - Entering password
+2026-03-08 15:40:53 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:41:12 INFO  pages.LoginPage - Entering username
+2026-03-08 15:41:17 INFO  pages.LoginPage - Entering password
+2026-03-08 15:41:19 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:41:22 INFO  pages.LoginPage - Checking error message
+2026-03-08 15:41:44 INFO  pages.LoginPage - Entering username
+2026-03-08 15:41:55 INFO  pages.LoginPage - Entering password
+2026-03-08 15:41:56 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:41:58 INFO  pages.LoginPage - Checking error message
+2026-03-08 15:43:09 INFO  pages.LoginPage - Entering username
+2026-03-08 15:43:14 INFO  pages.LoginPage - Entering password
+2026-03-08 15:43:15 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:43:15 INFO  pages.LoginPage - Checking required validation
+2026-03-08 15:43:44 INFO  pages.LoginPage - Entering username
+2026-03-08 15:43:55 INFO  pages.LoginPage - Entering password
+2026-03-08 15:43:56 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:43:56 INFO  pages.LoginPage - Checking required validation
+2026-03-08 15:44:52 INFO  pages.LoginPage - Entering username
+2026-03-08 15:44:53 INFO  pages.LoginPage - Entering username
+2026-03-08 15:44:55 INFO  pages.LoginPage - Entering username
+2026-03-08 15:44:58 INFO  pages.LoginPage - Entering password
+2026-03-08 15:44:59 INFO  pages.LoginPage - Entering password
+2026-03-08 15:44:59 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:45:01 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:45:01 INFO  pages.LoginPage - Entering password
+2026-03-08 15:45:03 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:45:12 INFO  pages.DashboardPage - Verifying Dashboard menu
+2026-03-08 15:45:15 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 15:45:38 INFO  pages.LoginPage - Entering username
+2026-03-08 15:45:39 INFO  pages.LoginPage - Entering username
+2026-03-08 15:45:46 INFO  pages.LoginPage - Entering password
+2026-03-08 15:45:47 INFO  pages.LoginPage - Entering password
+2026-03-08 15:45:47 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:45:48 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:46:05 INFO  pages.LoginPage - Entering username
+2026-03-08 15:46:05 INFO  pages.DashboardPage - Verifying Time at Work widget
+2026-03-08 15:46:07 INFO  pages.LoginPage - Checking error message
+2026-03-08 15:46:55 INFO  pages.LoginPage - Entering username
+2026-03-08 15:46:56 INFO  pages.LoginPage - Entering username
+2026-03-08 15:47:05 INFO  pages.LoginPage - Entering password
+2026-03-08 15:47:06 INFO  pages.LoginPage - Entering password
+2026-03-08 15:47:07 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:47:08 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:47:24 INFO  pages.LoginPage - Checking error message
+2026-03-08 15:47:32 INFO  pages.DashboardPage - Verifying side navigation menu
+2026-03-08 15:47:56 INFO  pages.LoginPage - Entering username
+2026-03-08 15:48:07 INFO  pages.LoginPage - Entering username
+2026-03-08 15:48:07 INFO  pages.LoginPage - Entering password
+2026-03-08 15:48:09 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:48:09 INFO  pages.LoginPage - Checking required validation
+2026-03-08 15:48:14 INFO  pages.LoginPage - Entering password
+2026-03-08 15:48:16 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:48:34 INFO  pages.LoginPage - Entering username
+2026-03-08 15:48:43 INFO  pages.DashboardPage - Clicking PIM menu
+2026-03-08 15:50:16 INFO  pages.LoginPage - Entering username
+2026-03-08 15:50:19 INFO  pages.LoginPage - Entering password
+2026-03-08 15:50:19 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:50:38 INFO  pages.LoginPage - Entering username
+2026-03-08 15:50:41 INFO  pages.LoginPage - Entering password
+2026-03-08 15:50:42 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:50:42 INFO  pages.LoginPage - Checking error message
+2026-03-08 15:51:06 INFO  pages.LoginPage - Entering username
+2026-03-08 15:51:09 INFO  pages.LoginPage - Entering password
+2026-03-08 15:51:10 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:51:10 INFO  pages.LoginPage - Checking error message
+2026-03-08 15:51:30 INFO  pages.LoginPage - Entering username
+2026-03-08 15:51:32 INFO  pages.LoginPage - Entering password
+2026-03-08 15:51:32 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:51:33 INFO  pages.LoginPage - Checking required validation
+2026-03-08 15:51:43 INFO  pages.LoginPage - Entering username
+2026-03-08 15:51:45 INFO  pages.LoginPage - Entering password
+2026-03-08 15:51:45 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:51:45 INFO  pages.LoginPage - Checking required validation
+2026-03-08 15:51:53 INFO  pages.LoginPage - Entering username
+2026-03-08 15:51:58 INFO  pages.LoginPage - Entering password
+2026-03-08 15:51:59 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:51:59 INFO  pages.DashboardPage - Verifying Dashboard menu
+2026-03-08 15:52:16 INFO  pages.LoginPage - Entering username
+2026-03-08 15:52:19 INFO  pages.LoginPage - Entering password
+2026-03-08 15:52:20 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:52:20 INFO  pages.DashboardPage - Verifying Time at Work widget
+2026-03-08 15:52:37 INFO  pages.LoginPage - Entering username
+2026-03-08 15:52:40 INFO  pages.LoginPage - Entering password
+2026-03-08 15:52:40 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:52:40 INFO  pages.DashboardPage - Verifying side navigation menu
+2026-03-08 15:52:55 INFO  pages.LoginPage - Entering username
+2026-03-08 15:52:56 INFO  pages.LoginPage - Entering password
+2026-03-08 15:52:57 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:52:59 INFO  pages.DashboardPage - Clicking PIM menu
+2026-03-08 15:53:12 INFO  pages.LoginPage - Entering username
+2026-03-08 15:53:13 INFO  pages.LoginPage - Entering password
+2026-03-08 15:53:13 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:53:14 INFO  pages.DashboardPage - Logging out user
+2026-03-08 15:53:14 INFO  pages.DashboardPage - Opening user dropdown
+2026-03-08 15:53:31 INFO  pages.LoginPage - Entering username
+2026-03-08 15:53:32 INFO  pages.LoginPage - Entering password
+2026-03-08 15:53:33 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:53:36 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 15:53:55 INFO  pages.LoginPage - Entering username
+2026-03-08 15:53:57 INFO  pages.LoginPage - Entering password
+2026-03-08 15:53:58 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:54:00 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 15:54:03 INFO  pages.PIMPage - Clicking Add Employee
+2026-03-08 15:54:22 INFO  pages.LoginPage - Entering username
+2026-03-08 15:54:24 INFO  pages.LoginPage - Entering password
+2026-03-08 15:54:25 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:54:27 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 15:54:30 INFO  pages.PIMPage - Clicking Add Employee
+2026-03-08 15:54:32 INFO  pages.PIMPage - Entering First Name: Apex
+2026-03-08 15:54:48 INFO  pages.LoginPage - Entering username
+2026-03-08 15:54:50 INFO  pages.LoginPage - Entering password
+2026-03-08 15:54:51 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:54:51 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 15:54:58 INFO  pages.PIMPage - Clicking Add Employee
+2026-03-08 15:55:01 INFO  pages.PIMPage - Entering First Name: Apex
+2026-03-08 15:55:02 INFO  pages.PIMPage - Entering Last Name: Tester
+2026-03-08 15:55:12 INFO  pages.LoginPage - Entering username
+2026-03-08 15:55:13 INFO  pages.LoginPage - Entering password
+2026-03-08 15:55:14 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:55:16 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 15:55:18 INFO  pages.PIMPage - Clicking Add Employee
+2026-03-08 15:55:20 INFO  pages.PIMPage - Entering First Name: Apex
+2026-03-08 15:55:21 INFO  pages.PIMPage - Entering Last Name: Tester
+2026-03-08 15:55:21 INFO  pages.PIMPage - Entering Employee ID: 259138
+2026-03-08 15:55:21 INFO  pages.PIMPage - Clicking Save button
+2026-03-08 15:55:21 INFO  pages.PIMPage - Verifying Personal Details page
+2026-03-08 15:55:36 INFO  pages.LoginPage - Entering username
+2026-03-08 15:55:37 INFO  pages.LoginPage - Entering password
+2026-03-08 15:55:37 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:55:39 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 15:55:42 INFO  pages.PIMPage - Clicking Add Employee
+2026-03-08 15:55:44 INFO  pages.PIMPage - Entering First Name: John
+2026-03-08 15:55:45 INFO  pages.PIMPage - Entering Last Name: Doe
+2026-03-08 15:55:45 INFO  pages.PIMPage - Entering Employee ID: 218175
+2026-03-08 15:55:45 INFO  pages.PIMPage - Clicking Save button
+2026-03-08 15:55:45 INFO  pages.PIMPage - Verifying Personal Details page
+2026-03-08 15:56:01 INFO  pages.LoginPage - Entering username
+2026-03-08 15:56:02 INFO  pages.LoginPage - Entering password
+2026-03-08 15:56:03 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:56:05 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 15:56:08 INFO  pages.PIMPage - Opening Employee List
+2026-03-08 15:56:18 INFO  pages.LoginPage - Entering username
+2026-03-08 15:56:19 INFO  pages.LoginPage - Entering password
+2026-03-08 15:56:20 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:56:20 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 15:56:24 INFO  pages.PIMPage - Opening Employee List
+2026-03-08 15:56:26 INFO  pages.PIMPage - Searching Employee: Apex
+2026-03-08 15:56:27 INFO  pages.PIMPage - Clicking Search button
+2026-03-08 15:56:36 INFO  pages.LoginPage - Entering username
+2026-03-08 15:56:38 INFO  pages.LoginPage - Entering password
+2026-03-08 15:56:38 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:56:38 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 15:56:43 INFO  pages.PIMPage - Opening Employee List
+2026-03-08 15:56:45 INFO  pages.PIMPage - Searching Employee: Apex
+2026-03-08 15:56:46 INFO  pages.PIMPage - Clicking Search button
+2026-03-08 15:56:55 INFO  pages.LoginPage - Entering username
+2026-03-08 15:56:57 INFO  pages.LoginPage - Entering password
+2026-03-08 15:56:57 INFO  pages.LoginPage - Clicking login button
+2026-03-08 15:56:59 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-08 15:57:02 INFO  pages.PIMPage - Opening Employee List
+2026-03-08 15:57:04 INFO  pages.PIMPage - Searching Employee: Dhanu Apex
+2026-03-08 15:57:05 INFO  pages.PIMPage - Clicking Search button
+2026-03-08 15:57:05 INFO  pages.PIMPage - Deleting employee
