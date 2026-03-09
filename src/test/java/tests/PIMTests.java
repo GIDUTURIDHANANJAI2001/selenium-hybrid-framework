@@ -5,16 +5,21 @@ import base.BaseTest;
 import org.testng.Assert;
 
 import org.testng.annotations.BeforeMethod;
+
 import org.testng.annotations.Test;
 
 import pages.LoginPage;
+
 import pages.PIMPage;
+
+import utilities.TestDataUtil;
 
 public class PIMTests extends BaseTest {
 
     PIMPage pim;
 
     @BeforeMethod
+
     public void loginBeforeTest() {
 
         LoginPage login = new LoginPage(getDriver());
@@ -25,11 +30,11 @@ public class PIMTests extends BaseTest {
 
     }
 
-    // TC01 Navigate to PIM
-    @Test
-    public void TC11_navigateToPIM(){
+    // TC11 Navigate to PIM
 
-        PIMPage pim = new PIMPage(getDriver());
+    @Test
+
+    public void TC11_navigateToPIM(){
 
         pim.clickPIM();
 
@@ -37,11 +42,11 @@ public class PIMTests extends BaseTest {
 
     }
 
-    // TC02 Open Add Employee Page
-    @Test
-    public void TC12_openAddEmployeePage(){
+    // TC12 Open Add Employee Page
 
-        PIMPage pim = new PIMPage(getDriver());
+    @Test
+
+    public void TC12_openAddEmployeePage(){
 
         pim.clickPIM();
 
@@ -51,51 +56,61 @@ public class PIMTests extends BaseTest {
 
     }
 
-    // TC03 Enter First Name
+    // TC13 Enter First Name
+
     @Test
+
     public void TC13_enterFirstName(){
 
-        PIMPage pim = new PIMPage(getDriver());
-
         pim.clickPIM();
 
         pim.clickAddEmployee();
 
-        pim.enterFirstName("Apex");
+        String firstName = TestDataUtil.generateFirstName();
+
+        pim.enterFirstName(firstName);
 
     }
 
-    // TC04 Enter Last Name
+    // TC14 Enter Last Name
+
     @Test
+
     public void TC14_enterLastName(){
 
-        PIMPage pim = new PIMPage(getDriver());
-
         pim.clickPIM();
 
         pim.clickAddEmployee();
 
-        pim.enterFirstName("Apex");
+        String firstName = TestDataUtil.generateFirstName();
 
-        pim.enterLastName("Tester");
+        String lastName = TestDataUtil.generateLastName();
+
+        pim.enterFirstName(firstName);
+
+        pim.enterLastName(lastName);
 
     }
 
-    // TC05 Save Employee
+    // TC15 Save Employee
+
     @Test
+
     public void TC15_saveEmployee(){
 
-        PIMPage pim = new PIMPage(getDriver());
-
         pim.clickPIM();
 
         pim.clickAddEmployee();
 
-        pim.enterFirstName("Apex");
+        String firstName = TestDataUtil.generateFirstName();
 
-        pim.enterLastName("Tester");
+        String lastName = TestDataUtil.generateLastName();
 
-        String empId = String.valueOf((int)(Math.random()*900000)+100000);
+        String empId = TestDataUtil.generateEmployeeId();
+
+        pim.enterFirstName(firstName);
+
+        pim.enterLastName(lastName);
 
         pim.enterEmployeeId(empId);
 
@@ -105,21 +120,25 @@ public class PIMTests extends BaseTest {
 
     }
 
-    // TC06 Verify Personal Details Page
+    // TC16 Verify Personal Details Page
+
     @Test
+
     public void TC16_verifyPersonalDetailsPage(){
 
-        PIMPage pim = new PIMPage(getDriver());
-
         pim.clickPIM();
 
         pim.clickAddEmployee();
 
-        pim.enterFirstName("John");
+        String firstName = TestDataUtil.generateFirstName();
 
-        pim.enterLastName("Doe");
+        String lastName = TestDataUtil.generateLastName();
 
-        String empId = String.valueOf((int)(Math.random()*900000)+100000);
+        String empId = TestDataUtil.generateEmployeeId();
+
+        pim.enterFirstName(firstName);
+
+        pim.enterLastName(lastName);
 
         pim.enterEmployeeId(empId);
 
@@ -129,11 +148,11 @@ public class PIMTests extends BaseTest {
 
     }
 
-    // TC07 Navigate to Employee List
-    @Test
-    public void TC17_navigateToEmployeeList(){
+    // TC17 Navigate to Employee List
 
-        PIMPage pim = new PIMPage(getDriver());
+    @Test
+
+    public void TC17_navigateToEmployeeList(){
 
         pim.clickPIM();
 
@@ -143,49 +162,67 @@ public class PIMTests extends BaseTest {
 
     }
 
-    // TC08 Search Employee
+    // TC18 Search Employee
+
     @Test
+
     public void TC18_searchEmployee(){
 
-        PIMPage pim = new PIMPage(getDriver());
-
         pim.clickPIM();
 
         pim.clickEmployeeList();
 
-        pim.searchEmployee("Apex");
+        pim.searchEmployee("Dhanu");
 
         pim.clickSearch();
 
     }
 
-    // TC09 Verify Employee Search
+    // TC19 Verify Employee Search
+
     @Test
+
     public void TC19_verifyEmployeeSearch(){
 
-        PIMPage pim = new PIMPage(getDriver());
-
         pim.clickPIM();
 
         pim.clickEmployeeList();
 
-        pim.searchEmployee("Apex");
+        pim.searchEmployee("Dhanu");
 
         pim.clickSearch();
 
     }
 
-    // TC10 Delete Employee
+    // TC20 Delete Employee
+
     @Test
+
     public void TC20_deleteEmployee(){
 
-        PIMPage pim = new PIMPage(getDriver());
+        pim.clickPIM();
+
+        pim.clickAddEmployee();
+
+        String firstName = TestDataUtil.generateFirstName();
+
+        String lastName = TestDataUtil.generateLastName();
+
+        String empId = TestDataUtil.generateEmployeeId();
+
+        pim.enterFirstName(firstName);
+
+        pim.enterLastName(lastName);
+
+        pim.enterEmployeeId(empId);
+
+        pim.clickSave();
 
         pim.clickPIM();
 
         pim.clickEmployeeList();
 
-        pim.searchEmployee("Dhanu Apex");
+        pim.searchEmployee(firstName + " " + lastName);
 
         pim.clickSearch();
 
