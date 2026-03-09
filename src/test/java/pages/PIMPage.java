@@ -12,6 +12,7 @@ import org.apache.logging.log4j.Logger;
 import utilities.WaitUtil;
 
 import java.time.Duration;
+import org.openqa.selenium.WebElement;
 
 public class PIMPage {
 
@@ -43,7 +44,8 @@ public class PIMPage {
 
     By searchButton = By.xpath("//button[normalize-space()='Search']");
 
-    By deleteIcon = By.xpath("//button[contains(@class,'oxd-icon-button')]//i[contains(@class,'trash')]");
+//    By deleteIcon = By.xpath("//button[contains(@class,'oxd-icon-button')]//i[contains(@class,'trash')]");
+    By deleteIcon = By.xpath("//i[contains(@class,'bi-trash')]");
 
 
 // Actions
@@ -140,10 +142,27 @@ public class PIMPage {
 
         log.info("Deleting employee");
 
-        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(20));
 
-        wait.until(ExpectedConditions.elementToBeClickable(deleteIcon)).click();
+        // wait for employee table to load
+
+        wait.until(ExpectedConditions.visibilityOfElementLocated(
+
+                By.xpath("//div[@class='oxd-table-body']")
+
+        ));
+
+        // wait for delete icon to be clickable
+
+        WebElement deleteBtn = wait.until(
+
+                ExpectedConditions.elementToBeClickable(deleteIcon)
+
+        );
+
+        deleteBtn.click();
 
     }
+
 
 }
