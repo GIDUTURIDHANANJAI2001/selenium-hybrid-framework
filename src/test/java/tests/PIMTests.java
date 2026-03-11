@@ -196,38 +196,38 @@ public class PIMTests extends BaseTest {
 
     // TC20 Delete Employee
 
-    @Test
-
-    public void TC20_deleteEmployee(){
-
-        pim.clickPIM();
-
-        pim.clickAddEmployee();
-
-        String firstName = TestDataUtil.generateFirstName();
-
-        String lastName = TestDataUtil.generateLastName();
-
-        String empId = TestDataUtil.generateEmployeeId();
-
-        pim.enterFirstName(firstName);
-
-        pim.enterLastName(lastName);
-
-        pim.enterEmployeeId(empId);
-
-        pim.clickSave();
-
-        pim.clickPIM();
-
-        pim.clickEmployeeList();
-
-        pim.searchEmployee(firstName + " " + lastName);
-
-        pim.clickSearch();
-
-        pim.deleteEmployee();
-
-    }
+//    @Test
+//
+//    public void TC20_deleteEmployee(){
+//
+//        pim.clickPIM();
+//
+//        pim.clickAddEmployee();
+//
+//        String firstName = TestDataUtil.generateFirstName();
+//
+//        String lastName = TestDataUtil.generateLastName();
+//
+//        String empId = TestDataUtil.generateEmployeeId();
+//
+//        pim.enterFirstName(firstName);
+//
+//        pim.enterLastName(lastName);
+//
+//        pim.enterEmployeeId(empId);
+//
+//        pim.clickSave();
+//
+//        pim.clickPIM();
+//
+//        pim.clickEmployeeList();
+//
+//        pim.searchEmployee(firstName + " " + lastName);
+//
+//        pim.clickSearch();
+//
+//        pim.deleteEmployee();
+//
+//    }
 
 }

@@ -933,3 +933,148 @@
 2026-03-09 17:27:03 INFO  pages.PIMPage - Searching Employee: Dhanu Apex1773057418124
 2026-03-09 17:27:04 INFO  pages.PIMPage - Clicking Search button
 2026-03-09 17:27:05 INFO  pages.PIMPage - Deleting employee
+2026-03-09 18:17:50 INFO  pages.LoginPage - Entering username
+2026-03-09 18:17:51 INFO  pages.LoginPage - Entering password
+2026-03-09 18:17:51 INFO  pages.LoginPage - Clicking login button
+2026-03-09 18:17:53 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-09 18:18:07 INFO  pages.LoginPage - Entering username
+2026-03-09 18:18:08 INFO  pages.LoginPage - Entering password
+2026-03-09 18:18:08 INFO  pages.LoginPage - Clicking login button
+2026-03-09 18:18:09 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-09 18:18:13 INFO  pages.PIMPage - Clicking Add Employee
+2026-03-09 18:18:25 INFO  pages.LoginPage - Entering username
+2026-03-09 18:18:27 INFO  pages.LoginPage - Entering password
+2026-03-09 18:18:27 INFO  pages.LoginPage - Clicking login button
+2026-03-09 18:18:29 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-09 18:18:32 INFO  pages.PIMPage - Clicking Add Employee
+2026-03-09 18:18:34 INFO  pages.PIMPage - Entering First Name: Dhanu
+2026-03-09 18:18:45 INFO  pages.LoginPage - Entering username
+2026-03-09 18:18:47 INFO  pages.LoginPage - Entering password
+2026-03-09 18:18:47 INFO  pages.LoginPage - Clicking login button
+2026-03-09 18:18:47 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-09 18:18:58 INFO  pages.PIMPage - Clicking Add Employee
+2026-03-09 18:19:03 INFO  pages.PIMPage - Entering First Name: Dhanu
+2026-03-09 18:19:05 INFO  pages.PIMPage - Entering Last Name: Apex1773060543253
+2026-03-09 18:19:16 INFO  pages.LoginPage - Entering username
+2026-03-09 18:19:17 INFO  pages.LoginPage - Entering password
+2026-03-09 18:19:18 INFO  pages.LoginPage - Clicking login button
+2026-03-09 18:19:18 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-09 18:19:42 INFO  pages.LoginPage - Entering username
+2026-03-09 18:19:43 INFO  pages.LoginPage - Entering password
+2026-03-09 18:19:44 INFO  pages.LoginPage - Clicking login button
+2026-03-09 18:19:51 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-09 18:20:04 INFO  pages.PIMPage - Clicking Add Employee
+2026-03-09 18:20:09 INFO  pages.PIMPage - Entering First Name: Dhanu
+2026-03-09 18:20:10 INFO  pages.PIMPage - Entering Last Name: Apex1773060609298
+2026-03-09 18:20:10 INFO  pages.PIMPage - Entering Employee ID: 134471
+2026-03-09 18:20:11 INFO  pages.PIMPage - Clicking Save button
+2026-03-09 18:20:11 INFO  pages.PIMPage - Verifying Personal Details page
+2026-03-09 18:20:29 INFO  pages.LoginPage - Entering username
+2026-03-09 18:20:30 INFO  pages.LoginPage - Entering password
+2026-03-09 18:20:31 INFO  pages.LoginPage - Clicking login button
+2026-03-09 18:20:31 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-09 18:20:37 INFO  pages.PIMPage - Opening Employee List
+2026-03-09 18:20:51 INFO  pages.LoginPage - Entering username
+2026-03-09 18:20:53 INFO  pages.LoginPage - Entering password
+2026-03-09 18:20:53 INFO  pages.LoginPage - Clicking login button
+2026-03-09 18:20:53 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-09 18:20:59 INFO  pages.PIMPage - Opening Employee List
+2026-03-09 18:21:01 INFO  pages.PIMPage - Searching Employee: Dhanu
+2026-03-09 18:21:02 INFO  pages.PIMPage - Clicking Search button
+2026-03-09 18:21:13 INFO  pages.LoginPage - Entering username
+2026-03-09 18:21:14 INFO  pages.LoginPage - Entering password
+2026-03-09 18:21:15 INFO  pages.LoginPage - Clicking login button
+2026-03-09 18:21:15 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-09 18:21:20 INFO  pages.PIMPage - Opening Employee List
+2026-03-09 18:21:23 INFO  pages.PIMPage - Searching Employee: Dhanu
+2026-03-09 18:21:24 INFO  pages.PIMPage - Clicking Search button
+2026-03-09 18:21:36 INFO  pages.LoginPage - Entering username
+2026-03-09 18:21:37 INFO  pages.LoginPage - Entering password
+2026-03-09 18:21:37 INFO  pages.LoginPage - Clicking login button
+2026-03-09 18:21:38 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-09 18:21:42 INFO  pages.PIMPage - Clicking Add Employee
+2026-03-09 18:21:44 INFO  pages.PIMPage - Entering First Name: Dhanu
+2026-03-09 18:21:45 INFO  pages.PIMPage - Entering Last Name: Apex1773060704707
+2026-03-09 18:21:45 INFO  pages.PIMPage - Entering Employee ID: 394319
+2026-03-09 18:21:45 INFO  pages.PIMPage - Clicking Save button
+2026-03-09 18:21:46 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-09 18:21:47 INFO  pages.PIMPage - Opening Employee List
+2026-03-09 18:21:49 INFO  pages.PIMPage - Searching Employee: Dhanu
+2026-03-09 18:21:50 INFO  pages.PIMPage - Clicking Search button
+2026-03-09 18:21:50 INFO  pages.PIMPage - Deleting employee
+2026-03-09 18:23:37 INFO  pages.LoginPage - Entering username
+2026-03-09 18:23:38 INFO  pages.LoginPage - Entering password
+2026-03-09 18:23:38 INFO  pages.LoginPage - Clicking login button
+2026-03-09 18:23:39 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-09 18:23:52 INFO  pages.LoginPage - Entering username
+2026-03-09 18:23:54 INFO  pages.LoginPage - Entering password
+2026-03-09 18:23:54 INFO  pages.LoginPage - Clicking login button
+2026-03-09 18:23:54 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-09 18:23:58 INFO  pages.PIMPage - Clicking Add Employee
+2026-03-09 18:24:06 INFO  pages.LoginPage - Entering username
+2026-03-09 18:24:10 INFO  pages.LoginPage - Entering password
+2026-03-09 18:24:11 INFO  pages.LoginPage - Clicking login button
+2026-03-09 18:24:11 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-09 18:24:16 INFO  pages.PIMPage - Clicking Add Employee
+2026-03-09 18:24:18 INFO  pages.PIMPage - Entering First Name: Dhanu
+2026-03-09 18:24:28 INFO  pages.LoginPage - Entering username
+2026-03-09 18:24:31 INFO  pages.LoginPage - Entering password
+2026-03-09 18:24:32 INFO  pages.LoginPage - Clicking login button
+2026-03-09 18:24:35 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-09 18:24:39 INFO  pages.PIMPage - Clicking Add Employee
+2026-03-09 18:24:42 INFO  pages.PIMPage - Entering First Name: Dhanu
+2026-03-09 18:24:43 INFO  pages.PIMPage - Entering Last Name: Apex1773060882163
+2026-03-09 18:24:55 INFO  pages.LoginPage - Entering username
+2026-03-09 18:24:57 INFO  pages.LoginPage - Entering password
+2026-03-09 18:24:57 INFO  pages.LoginPage - Clicking login button
+2026-03-09 18:24:59 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-09 18:25:03 INFO  pages.PIMPage - Clicking Add Employee
+2026-03-09 18:25:05 INFO  pages.PIMPage - Entering First Name: Dhanu
+2026-03-09 18:25:06 INFO  pages.PIMPage - Entering Last Name: Apex1773060905651
+2026-03-09 18:25:06 INFO  pages.PIMPage - Entering Employee ID: 841458
+2026-03-09 18:25:06 INFO  pages.PIMPage - Clicking Save button
+2026-03-09 18:25:07 INFO  pages.PIMPage - Verifying Personal Details page
+2026-03-09 18:25:22 INFO  pages.LoginPage - Entering username
+2026-03-09 18:25:24 INFO  pages.LoginPage - Entering password
+2026-03-09 18:25:24 INFO  pages.LoginPage - Clicking login button
+2026-03-09 18:25:26 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-09 18:25:29 INFO  pages.PIMPage - Clicking Add Employee
+2026-03-09 18:25:32 INFO  pages.PIMPage - Entering First Name: Dhanu
+2026-03-09 18:25:33 INFO  pages.PIMPage - Entering Last Name: Apex1773060932080
+2026-03-09 18:25:33 INFO  pages.PIMPage - Entering Employee ID: 969724
+2026-03-09 18:25:34 INFO  pages.PIMPage - Clicking Save button
+2026-03-09 18:25:34 INFO  pages.PIMPage - Verifying Personal Details page
+2026-03-09 18:25:53 INFO  pages.LoginPage - Entering username
+2026-03-09 18:25:54 INFO  pages.LoginPage - Entering password
+2026-03-09 18:25:54 INFO  pages.LoginPage - Clicking login button
+2026-03-09 18:25:56 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-09 18:25:58 INFO  pages.PIMPage - Opening Employee List
+2026-03-09 18:26:11 INFO  pages.LoginPage - Entering username
+2026-03-09 18:26:12 INFO  pages.LoginPage - Entering password
+2026-03-09 18:26:12 INFO  pages.LoginPage - Clicking login button
+2026-03-09 18:26:14 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-09 18:26:17 INFO  pages.PIMPage - Opening Employee List
+2026-03-09 18:26:19 INFO  pages.PIMPage - Searching Employee: Dhanu
+2026-03-09 18:26:19 INFO  pages.PIMPage - Clicking Search button
+2026-03-09 18:26:29 INFO  pages.LoginPage - Entering username
+2026-03-09 18:26:30 INFO  pages.LoginPage - Entering password
+2026-03-09 18:26:30 INFO  pages.LoginPage - Clicking login button
+2026-03-09 18:26:30 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-09 18:26:38 INFO  pages.PIMPage - Opening Employee List
+2026-03-09 18:26:40 INFO  pages.PIMPage - Searching Employee: Dhanu
+2026-03-09 18:26:40 INFO  pages.PIMPage - Clicking Search button
+2026-03-09 18:26:51 INFO  pages.LoginPage - Entering username
+2026-03-09 18:26:53 INFO  pages.LoginPage - Entering password
+2026-03-09 18:26:54 INFO  pages.LoginPage - Clicking login button
+2026-03-09 18:26:57 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-09 18:27:00 INFO  pages.PIMPage - Clicking Add Employee
+2026-03-09 18:27:02 INFO  pages.PIMPage - Entering First Name: Dhanu
+2026-03-09 18:27:04 INFO  pages.PIMPage - Entering Last Name: Apex1773061022765
+2026-03-09 18:27:05 INFO  pages.PIMPage - Entering Employee ID: 327491
+2026-03-09 18:27:06 INFO  pages.PIMPage - Clicking Save button
+2026-03-09 18:27:07 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-09 18:27:08 INFO  pages.PIMPage - Opening Employee List
+2026-03-09 18:27:11 INFO  pages.PIMPage - Searching Employee: Dhanu Apex1773061022765
+2026-03-09 18:27:12 INFO  pages.PIMPage - Clicking Search button
+2026-03-09 18:27:12 INFO  pages.PIMPage - Deleting employee
+2026-03-09 18:27:13 INFO  pages.PIMPage - Stale element detected, retrying click...

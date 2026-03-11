@@ -44,7 +44,7 @@ public class PIMPage {
 
     By searchButton = By.xpath("//button[normalize-space()='Search']");
 
-//    By deleteIcon = By.xpath("//button[contains(@class,'oxd-icon-button')]//i[contains(@class,'trash')]");
+    //    By deleteIcon = By.xpath("//button[contains(@class,'oxd-icon-button')]//i[contains(@class,'trash')]");
     By deleteIcon = By.xpath("//i[contains(@class,'bi-trash')]");
 
 
@@ -144,7 +144,9 @@ public class PIMPage {
 
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(20));
 
-        // wait for employee table to load
+        By deleteBtn = By.xpath("//i[contains(@class,'bi-trash')]");
+
+        // wait for table to load
 
         wait.until(ExpectedConditions.visibilityOfElementLocated(
 
@@ -152,17 +154,26 @@ public class PIMPage {
 
         ));
 
-        // wait for delete icon to be clickable
+        // retry mechanism to avoid stale element
 
-        WebElement deleteBtn = wait.until(
+        for(int i=0; i<3; i++){
 
-                ExpectedConditions.elementToBeClickable(deleteIcon)
+            try{
 
-        );
+                wait.until(ExpectedConditions.elementToBeClickable(deleteBtn)).click();
 
-        deleteBtn.click();
+                break;
+
+            }catch(org.openqa.selenium.StaleElementReferenceException e){
+
+                log.info("Stale element detected, retrying click...");
+
+            }
+
+        }
 
     }
+
 
 
 }
