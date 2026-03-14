@@ -36,7 +36,7 @@ Empty fields → Required message
                     "Required message not displayed");
 
         }
-
+//notes
         else{
 
             Assert.assertTrue(login.isErrorDisplayed(),

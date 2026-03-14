@@ -1078,3 +1078,64 @@
 2026-03-09 18:27:12 INFO  pages.PIMPage - Clicking Search button
 2026-03-09 18:27:12 INFO  pages.PIMPage - Deleting employee
 2026-03-09 18:27:13 INFO  pages.PIMPage - Stale element detected, retrying click...
+2026-03-14 11:22:37 INFO  pages.LoginPage - Entering username
+2026-03-14 11:22:38 INFO  pages.LoginPage - Entering password
+2026-03-14 11:22:39 INFO  pages.LoginPage - Clicking login button
+2026-03-14 11:22:41 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-14 11:23:10 INFO  pages.LoginPage - Entering username
+2026-03-14 11:23:12 INFO  pages.LoginPage - Entering password
+2026-03-14 11:23:13 INFO  pages.LoginPage - Clicking login button
+2026-03-14 11:23:13 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-14 11:23:18 INFO  pages.PIMPage - Clicking Add Employee
+2026-03-14 11:23:37 INFO  pages.LoginPage - Entering username
+2026-03-14 11:23:39 INFO  pages.LoginPage - Entering password
+2026-03-14 11:23:39 INFO  pages.LoginPage - Clicking login button
+2026-03-14 11:23:39 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-14 11:23:43 INFO  pages.PIMPage - Clicking Add Employee
+2026-03-14 11:23:45 INFO  pages.PIMPage - Entering First Name: Dhanu
+2026-03-14 11:24:05 INFO  pages.LoginPage - Entering username
+2026-03-14 11:24:06 INFO  pages.LoginPage - Entering password
+2026-03-14 11:24:07 INFO  pages.LoginPage - Clicking login button
+2026-03-14 11:24:09 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-14 11:24:12 INFO  pages.PIMPage - Clicking Add Employee
+2026-03-14 11:24:14 INFO  pages.PIMPage - Entering First Name: Dhanu
+2026-03-14 11:24:15 INFO  pages.PIMPage - Entering Last Name: Apex1773467654031
+2026-03-14 11:24:27 INFO  pages.LoginPage - Entering username
+2026-03-14 11:24:31 INFO  pages.LoginPage - Entering password
+2026-03-14 11:24:32 INFO  pages.LoginPage - Clicking login button
+2026-03-14 11:24:34 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-14 11:24:37 INFO  pages.PIMPage - Clicking Add Employee
+2026-03-14 11:24:40 INFO  pages.PIMPage - Entering First Name: Dhanu
+2026-03-14 11:24:42 INFO  pages.PIMPage - Entering Last Name: Apex1773467680342
+2026-03-14 11:24:43 INFO  pages.PIMPage - Entering Employee ID: 185697
+2026-03-14 11:24:44 INFO  pages.PIMPage - Clicking Save button
+2026-03-14 11:24:45 INFO  pages.PIMPage - Verifying Personal Details page
+2026-03-14 11:25:18 INFO  pages.LoginPage - Entering username
+2026-03-14 11:25:20 INFO  pages.LoginPage - Entering password
+2026-03-14 11:25:21 INFO  pages.LoginPage - Clicking login button
+2026-03-14 11:25:21 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-14 11:25:27 INFO  pages.PIMPage - Clicking Add Employee
+2026-03-14 11:25:30 INFO  pages.PIMPage - Entering First Name: Dhanu
+2026-03-14 11:25:32 INFO  pages.PIMPage - Entering Last Name: Apex1773467730741
+2026-03-14 11:25:32 INFO  pages.PIMPage - Entering Employee ID: 807584
+2026-03-14 11:25:32 INFO  pages.PIMPage - Clicking Save button
+2026-03-14 11:25:33 INFO  pages.PIMPage - Verifying Personal Details page
+2026-03-14 11:25:59 INFO  pages.LoginPage - Entering username
+2026-03-14 11:26:00 INFO  pages.LoginPage - Entering password
+2026-03-14 11:26:01 INFO  pages.LoginPage - Clicking login button
+2026-03-14 11:26:01 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-14 11:26:05 INFO  pages.PIMPage - Opening Employee List
+2026-03-14 11:26:18 INFO  pages.LoginPage - Entering username
+2026-03-14 11:26:20 INFO  pages.LoginPage - Entering password
+2026-03-14 11:26:21 INFO  pages.LoginPage - Clicking login button
+2026-03-14 11:26:22 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-14 11:26:26 INFO  pages.PIMPage - Opening Employee List
+2026-03-14 11:26:27 INFO  pages.PIMPage - Searching Employee: Dhanu
+2026-03-14 11:26:28 INFO  pages.PIMPage - Clicking Search button
+2026-03-14 11:26:58 INFO  pages.LoginPage - Entering username
+2026-03-14 11:27:00 INFO  pages.LoginPage - Entering password
+2026-03-14 11:27:01 INFO  pages.LoginPage - Clicking login button
+2026-03-14 11:27:01 INFO  pages.PIMPage - Clicking PIM menu
+2026-03-14 11:27:05 INFO  pages.PIMPage - Opening Employee List
+2026-03-14 11:27:08 INFO  pages.PIMPage - Searching Employee: Dhanu
+2026-03-14 11:27:08 INFO  pages.PIMPage - Clicking Search button
